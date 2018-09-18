@@ -1,0 +1,21 @@
+{
+  "name": "semantic-ui-react-dropdown",
+  "version": "1.0.0",
+  "description": "Example of how to use the semantic-ui-library's Dropdown component to display an avatar image inline with the selection item text.",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-scripts": "1.1.4",
+    "semantic-ui-css": "2.4.0",
+    "semantic-ui-react": "0.82.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
